@@ -1,159 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.26 -- Jan van Straaten" site="clarotv.com.br">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.26 -- Jan van Straaten" site="meuguia.tv">
   <channels>
-    <channel update="i" site="clarotv.com.br" site_id="108" xmltv_id="Tvjustica.br">TV JUSTICA</channel>
-    <channel update="i" site="clarotv.com.br" site_id="110" xmltv_id="TV Senado">TV Senado</channel>
-    <channel update="i" site="clarotv.com.br" site_id="104" xmltv_id="TV Câmara">TV Câmara</channel>
-    <channel update="i" site="clarotv.com.br" site_id="105" xmltv_id="TV Escola">TV Escola</channel>
-    <channel update="i" site="clarotv.com.br" site_id="101" xmltv_id="TV Brasil">TV Brasil</channel>
-    <channel update="i" site="clarotv.com.br" site_id="69" xmltv_id="NBR">NBR</channel>
-    <channel update="i" site="clarotv.com.br" site_id="231" xmltv_id="IDEAL TV">IDEAL TV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="233" xmltv_id="RIT">RIT</channel>
-    <channel update="i" site="clarotv.com.br" site_id="235" xmltv_id="Rede Brasil">Rede Brasil</channel>
-    <channel update="i" site="clarotv.com.br" site_id="81" xmltv_id="Record News">Record News</channel>
-    <channel update="i" site="clarotv.com.br" site_id="229" xmltv_id="Rede CNT">Rede CNT</channel>
-    <channel update="i" site="clarotv.com.br" site_id="230" xmltv_id="RBI TV">RBI TV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="234" xmltv_id="Rede Vida">Rede Vida</channel>
-    <channel update="i" site="clarotv.com.br" site_id="232" xmltv_id="Aparecida">Aparecida</channel>
-    <channel update="i" site="clarotv.com.br" site_id="102" xmltv_id="Canção Nova">Canção Nova</channel>
-    <channel update="i" site="clarotv.com.br" site_id="240" xmltv_id="Rede TV">Rede TV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="80" xmltv_id="RECORD">RECORD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="5" xmltv_id="BAND">BAND</channel>
-    <channel update="i" site="clarotv.com.br" site_id="86" xmltv_id="SBT">SBT</channel>
-    <channel update="i" site="clarotv.com.br" site_id="107" xmltv_id="Globo">Globo</channel>
-    <channel update="i" site="clarotv.com.br" site_id="103" xmltv_id="TV Cultura">TV Cultura</channel>
-    <channel update="i" site="clarotv.com.br" site_id="78" xmltv_id="Polishop">Polishop</channel>
-    <channel update="i" site="clarotv.com.br" site_id="200" xmltv_id="OFF">OFF</channel>
-    <channel update="i" site="clarotv.com.br" site_id="186" xmltv_id="Sportv 3">Sportv 3</channel>
-    <channel update="i" site="clarotv.com.br" site_id="94" xmltv_id="Sportv 2">Sportv 2</channel>
-    <channel update="i" site="clarotv.com.br" site_id="93" xmltv_id="SporTV">SporTV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="49" xmltv_id="GloboNews">GloboNews</channel>
-    <channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT">GNT</channel>
-    <channel update="i" site="clarotv.com.br" site_id="68" xmltv_id="Multishow">Multishow</channel>
-    <channel update="i" site="clarotv.com.br" site_id="17" xmltv_id="Canal Viva">Canal Viva</channel>
-    <channel update="i" site="clarotv.com.br" site_id="201" xmltv_id="+ GLOBOSAT">+ GLOBOSAT</channel>
-    <channel update="i" site="clarotv.com.br" site_id="34" xmltv_id="E!">E!</channel>
-    <channel update="i" site="clarotv.com.br" site_id="249" xmltv_id="Fox Life">Fox Life</channel>
-    <channel update="i" site="clarotv.com.br" site_id="31" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="clarotv.com.br" site_id="211" xmltv_id="Arte 1">Arte 1</channel>
-    <channel update="i" site="clarotv.com.br" site_id="29" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
-    <channel update="i" site="clarotv.com.br" site_id="203" xmltv_id="Curta!">Curta!</channel>
-    <channel update="i" site="clarotv.com.br" site_id="120" xmltv_id="TruTV">TruTV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="125" xmltv_id="WooHoo">WooHoo</channel>
-    <channel update="i" site="clarotv.com.br" site_id="35" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
-    <channel update="i" site="clarotv.com.br" site_id="36" xmltv_id="ESPN">ESPN</channel>
-    <channel update="i" site="clarotv.com.br" site_id="143" xmltv_id="ESPN +">ESPN +</channel>
-    <channel update="i" site="clarotv.com.br" site_id="92" xmltv_id="Fox Sports">Fox Sports</channel>
-    <channel update="i" site="clarotv.com.br" site_id="248" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
-    <channel update="i" site="clarotv.com.br" site_id="8" xmltv_id="Band Sports">Band Sports</channel>
-    <channel update="i" site="clarotv.com.br" site_id="7" xmltv_id="Band News">Band News</channel>
-    <channel update="i" site="clarotv.com.br" site_id="71" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="clarotv.com.br" site_id="28" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="clarotv.com.br" site_id="3" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="clarotv.com.br" site_id="119" xmltv_id="The History Channel">The History Channel</channel>
-    <channel update="i" site="clarotv.com.br" site_id="147" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
-    <channel update="i" site="clarotv.com.br" site_id="46" xmltv_id="Futura">Futura</channel>
-    <channel update="i" site="clarotv.com.br" site_id="10" xmltv_id="H2">H2</channel>
-    <channel update="i" site="clarotv.com.br" site_id="30" xmltv_id="Discovery Kids">Discovery Kids</channel>
-    <channel update="i" site="clarotv.com.br" site_id="191" xmltv_id="Gloob">Gloob</channel>
-    <channel update="i" site="clarotv.com.br" site_id="33" xmltv_id="Disney">Disney</channel>
-    <channel update="i" site="clarotv.com.br" site_id="74" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="clarotv.com.br" site_id="18" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="clarotv.com.br" site_id="32" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="77" xmltv_id="Disney Júnior">Disney Júnior</channel>
-    <channel update="i" site="clarotv.com.br" site_id="73" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="clarotv.com.br" site_id="11" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="clarotv.com.br" site_id="109" xmltv_id="TV Rá Tim Bum">TV Rá Tim Bum</channel>
-    <channel update="i" site="clarotv.com.br" site_id="175" xmltv_id="TOONCAST">TOONCAST</channel>
-    <channel update="i" site="clarotv.com.br" site_id="202" xmltv_id="BIS">BIS</channel>
-    <channel update="i" site="clarotv.com.br" site_id="246" xmltv_id="MTV ">MTV </channel>
-    <channel update="i" site="clarotv.com.br" site_id="199" xmltv_id="Play TV">Play TV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="222" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
-    <channel update="i" site="clarotv.com.br" site_id="121" xmltv_id="Universal Channel">Universal Channel</channel>
-    <channel update="i" site="clarotv.com.br" site_id="40" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="clarotv.com.br" site_id="124" xmltv_id="Warner Channel">Warner Channel</channel>
-    <channel update="i" site="clarotv.com.br" site_id="90" xmltv_id="Sony">Sony</channel>
-    <channel update="i" site="clarotv.com.br" site_id="42" xmltv_id="FX">FX</channel>
-    <channel update="i" site="clarotv.com.br" site_id="2" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="clarotv.com.br" site_id="224" xmltv_id="TBS">TBS</channel>
-    <channel update="i" site="clarotv.com.br" site_id="188" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="clarotv.com.br" site_id="1" xmltv_id="A&amp;E">A&amp;E</channel>
-    <channel update="i" site="clarotv.com.br" site_id="61" xmltv_id="ID - Investigação Discovery">ID - Investigação Discovery</channel>
-    <channel update="i" site="clarotv.com.br" site_id="88" xmltv_id="SyFy">SyFy</channel>
-    <channel update="i" site="clarotv.com.br" site_id="57" xmltv_id="iSat">iSat</channel>
-    <channel update="i" site="clarotv.com.br" site_id="14" xmltv_id="Canal Brasil">Canal Brasil</channel>
-    <channel update="i" site="clarotv.com.br" site_id="100" xmltv_id="TNT">TNT</channel>
-    <channel update="i" site="clarotv.com.br" site_id="67" xmltv_id="Megapix">Megapix</channel>
-    <channel update="i" site="clarotv.com.br" site_id="91" xmltv_id="Space">Space</channel>
-    <channel update="i" site="clarotv.com.br" site_id="19" xmltv_id="Cinemax">Cinemax</channel>
-    <channel update="i" site="clarotv.com.br" site_id="148" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
-    <channel update="i" site="clarotv.com.br" site_id="95" xmltv_id="Studio Universal">Studio Universal</channel>
-    <channel update="i" site="clarotv.com.br" site_id="123" xmltv_id="Paramount">Paramount</channel>
-    <channel update="i" site="clarotv.com.br" site_id="96" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium">Telecine Premium</channel>
-    <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action">Telecine Action</channel>
-    <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch">Telecine Touch</channel>
-    <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun">Telecine Fun</channel>
-    <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
-    <channel update="i" site="clarotv.com.br" site_id="113" xmltv_id="Telecine Cult">Telecine Cult</channel>
-    <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO 2">HBO 2</channel>
-    <channel update="i" site="clarotv.com.br" site_id="55" xmltv_id="HBO Plus">HBO Plus</channel>
-    <channel update="i" site="clarotv.com.br" site_id="54" xmltv_id="HBO Plus *e">HBO Plus *e</channel>
-    <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO Family">HBO Family</channel>
-    <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO Signature">HBO Signature</channel>
-    <channel update="i" site="clarotv.com.br" site_id="21" xmltv_id="Max">Max</channel>
-    <channel update="i" site="clarotv.com.br" site_id="65" xmltv_id="Max Prime">Max Prime</channel>
-    <channel update="i" site="clarotv.com.br" site_id="66" xmltv_id="Max Prime *e">Max Prime *e</channel>
-    <channel update="i" site="clarotv.com.br" site_id="118" xmltv_id="Terra Viva">Terra Viva</channel>
-    <channel update="i" site="clarotv.com.br" site_id="15" xmltv_id="Canal Rural">Canal Rural</channel>
-    <channel update="i" site="clarotv.com.br" site_id="357" xmltv_id="Boa Vontade TV">Boa Vontade TV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="185" xmltv_id="CNN Internacional">CNN Internacional</channel>
-    <channel update="i" site="clarotv.com.br" site_id="153" xmltv_id="RAI">RAI</channel>
-    <channel update="i" site="clarotv.com.br" site_id="151" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="clarotv.com.br" site_id="149" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="clarotv.com.br" site_id="150" xmltv_id="NHK PREMIUM">NHK PREMIUM</channel>
-    <channel update="i" site="clarotv.com.br" site_id="154" xmltv_id="SIC">SIC</channel>
-    <channel update="i" site="clarotv.com.br" site_id="174" xmltv_id="CNN ESPANÕL">CNN ESPANÕL</channel>
-    <channel update="i" site="clarotv.com.br" site_id="75" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
-    <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate">Combate</channel>
-    <channel update="i" site="clarotv.com.br" site_id="76" xmltv_id="Playboy TV">Playboy TV</channel>
-    <channel update="i" site="clarotv.com.br" site_id="89" xmltv_id="Sexy Hot">Sexy Hot</channel>
-    <channel update="i" site="clarotv.com.br" site_id="181" xmltv_id="OFF HD">OFF HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="228" xmltv_id="Sportv 2 HD">Sportv 2 HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="227" xmltv_id="Sportv HD">Sportv HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="226" xmltv_id="GNT HD">GNT HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="225" xmltv_id="Multishow HD">Multishow HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="47" xmltv_id="GLOBOSAT HD">GLOBOSAT HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="168" xmltv_id="TLC HD">TLC HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="287" xmltv_id="Discovery Home &amp; Health HD">Discovery Home &amp; Health HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="290" xmltv_id="ESPN HD">ESPN HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="292" xmltv_id="Band Sports HD">Band Sports HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="210" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="207" xmltv_id="The History Channel HD">The History Channel HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="289" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="167" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="26" xmltv_id="DISCOVERY THEATER HD">DISCOVERY THEATER HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="288" xmltv_id="Discovery Kids HD">Discovery Kids HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="198" xmltv_id="Gloob HD">Gloob HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="166" xmltv_id="Disney HD">Disney HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="63" xmltv_id="BIS HD">BIS HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="285" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="41" xmltv_id="FOX HD">FOX HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="189" xmltv_id="Warner HD">Warner HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="206" xmltv_id="Sony HD">Sony HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="205" xmltv_id="AXN HD">AXN HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="99" xmltv_id="TNT HD">TNT HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="286" xmltv_id="Megapix HD">Megapix HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="165" xmltv_id="Space HD">Space HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="164" xmltv_id="Paramount HD">Paramount HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="97" xmltv_id="Telecine Premium HD">Telecine Premium HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="145" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="208" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="209" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="98" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="242" xmltv_id="HBO2 HD">HBO2 HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="53" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
-    <channel update="i" site="clarotv.com.br" site_id="243" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&amp;E [Brazil]">A&E ¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&amp;E [Brazil]">A&E ²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&amp;E [Brazil]">A&E ³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMC [Brazil]">AMC ¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMC [Brazil]">AMC ²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMC [Brazil]">AMC ³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/AXN" xmltv_id="AXN [Brazil]">AXD ¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/AXN" xmltv_id="AXN [Brazil]">AXD ²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/AXN" xmltv_id="AXN [Brazil]">AXD ³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/APL" xmltv_id="Animal Planet [Brazil]">Animal Planet ¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/APL" xmltv_id="Animal Planet [Brazil]">Animal Planet ²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BQ5" xmltv_id="Arte 1 [Brazil]">Arte 1¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BQ5" xmltv_id="Arte 1 [Brazil]">Arte 1²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BAB" xmltv_id="Baby TV [Brazil]">Baby TV</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MSH" xmltv_id="Bis HD [Brazil]">BIS¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MSH" xmltv_id="Bis HD [Brazil]">BIS²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BAN" xmltv_id="Band Rede [Brazil]">Band¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BAN" xmltv_id="Band Rede [Brazil]">Band²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="Band News [Brazil]">Band News¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="Band News [Brazil]">Band News²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="Band News [Brazil]">Band News³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BSP" xmltv_id="Band Sports [Brazil]">Band Sports¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BSP" xmltv_id="Band Sports [Brazil]">Band Sports²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BMG" xmltv_id="Boomerang [Brazil]">Boomerang¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BMG" xmltv_id="Boomerang [Brazil]">Boomerang²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/BMG" xmltv_id="Boomerang [Brazil]">Boomerang³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CNV" xmltv_id="Canção Nova [Brazil]">Canção Nova</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CAR" xmltv_id="Cartoon Network [Brazil]">Cartoon Network¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CAR" xmltv_id="Cartoon Network [Brazil]">Cartoon Network²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MNX" xmltv_id="Cinemax [Brazil]">Cinemax¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MNX" xmltv_id="Cinemax [Brazil]">Cinemax²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CCE" xmltv_id="Comedy Central [Brazil]">Comedy Central¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CCE" xmltv_id="Comedy Central [Brazil]">Comedy Central²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="Combate [Brazil]">Combate¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="Combate [Brazil]">Combate²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HEA" xmltv_id="Discovery Home &amp; Health [Brazil]">Discovery Home & Health¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HEA" xmltv_id="Discovery Home &amp; Health [Brazil]">Discovery Home & Health²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DCI" xmltv_id="Discovery Civilization [Brazil]">Discovery Civilization</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DIS" xmltv_id="Discovery Channel [Brazil]">Discovery Channel¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DIS" xmltv_id="Discovery Channel [Brazil]">Discovery Channel²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DIS" xmltv_id="Discovery Channel [Brazil]">Discovery Channel³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="Discovery Kids [Brazil]">Discovery Kids¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="Discovery Kids [Brazil]">Discovery Kids²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="Discovery Kids [Brazil]">Discovery Kids³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DSC" xmltv_id="Discovery Science [Brazil]">Discovery Science¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DSC" xmltv_id="Discovery Science [Brazil]">Discovery Science²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DHD" xmltv_id="Discovery HD Theater [Brazil]">Discovery Theater¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DHD" xmltv_id="Discovery HD Theater [Brazil]">Discovery Theater²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DNY" xmltv_id="Disney Channel [Brazil]">Disney Channel¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DNY" xmltv_id="Disney Channel [Brazil]">Disney Channel²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DNY" xmltv_id="Disney Channel [Brazil]">Disney Channel³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/PHD" xmltv_id="Disney Junior [Brazil]">Disney Junior¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/PHD" xmltv_id="Disney Junior [Brazil]">Disney Junior²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DXD" xmltv_id="Disney XD [Brazil]">Disney XD</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DTU" xmltv_id="Discovery Turbo [Brazil]">Discovery Turbo¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/DTU" xmltv_id="Discovery Turbo [Brazil]">Discovery Turbo²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/EET" xmltv_id="E! Entertainment Television [Brazil]">E!</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/ESH" xmltv_id="ESPN  HD [Brazil]">ESPN¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/ESH" xmltv_id="ESPN  HD [Brazil]">ESPN²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/ESB" xmltv_id="ESPN Brasil [Brazil]">ESPN Brasil¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/ESB" xmltv_id="ESPN Brasil [Brazil]">ESPN Brasil²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FOX" xmltv_id="Fox [Brazil]">FOX¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FOX" xmltv_id="Fox [Brazil]">FOX²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FLI" xmltv_id="Fox Life [Brazil]">FOX Life¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FLI" xmltv_id="Fox Life [Brazil]">FOX Life²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FLI" xmltv_id="Fox Life [Brazil]">FOX Life³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FSP" xmltv_id="Fox Sports [Brazil]">Fox Sports¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FSP" xmltv_id="Fox Sports [Brazil]">Fox Sports²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FS2" xmltv_id="Fox Sports 2 [Brazil]">FOX Sports 2¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FS2" xmltv_id="Fox Sports 2 [Brazil]">FOX Sports 2²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FUT" xmltv_id="Futura [Brazil]">Futura¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FUT" xmltv_id="Futura [Brazil]">Futura²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/FUT" xmltv_id="Futura [Brazil]">Futura³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CFX" xmltv_id="FX [Brazil]">FX¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CFX" xmltv_id="FX [Brazil]">FX²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GLN" xmltv_id="Globo News [Brazil]">Globo News¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GLN" xmltv_id="Globo News [Brazil]">Globo News²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="Globo - RJ [Brazil]">Globo RJ¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="Globo - RJ [Brazil]">Globo RJ²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GOB" xmltv_id="Gloob [Brazil]">Gloob¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GOB" xmltv_id="Gloob [Brazil]">Gloob²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GNT" xmltv_id="GNT [Brazil]">GNT¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/GNT" xmltv_id="GNT [Brazil]">GNT²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CH2" xmltv_id="H2 [Brazil]">H2¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CH2" xmltv_id="H2 [Brazil]">H2²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CH2" xmltv_id="H2 [Brazil]">H2³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HBO" xmltv_id="HBO [Brazil]">HBO¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HBO" xmltv_id="HBO [Brazil]">HBO²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HB2" xmltv_id="HBO 2 [Brazil]">HBO 2¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HB2" xmltv_id="HBO 2 [Brazil]">HBO 2²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HFA" xmltv_id="HBO Family [Brazil]">HBO Family¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HFA" xmltv_id="HBO Family [Brazil]">HBO Family²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HFA" xmltv_id="HBO Family [Brazil]">HBO Family³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HPL" xmltv_id="HBO Plus [Brazil]">HBO Plus</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HFE" xmltv_id="HBO Signature [Brazil]">HBO Signature¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HFE" xmltv_id="HBO Signature [Brazil]">HBO Signature²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HIS" xmltv_id="History Channel [Brazil]">History¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HIS" xmltv_id="History Channel [Brazil]">History²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/LIV" xmltv_id="Investigação Discovery [Brazil]">ID¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/LIV" xmltv_id="Investigação Discovery [Brazil]">ID²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/ANX" xmltv_id="Lifetime [Brazil]">Lifetime¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/ANX" xmltv_id="Lifetime [Brazil]">Lifetime²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SET" xmltv_id="Sony [Brazil]">Sony¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SET" xmltv_id="Sony [Brazil]">Sony²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MPX" xmltv_id="Megapix [Brazil]">Megapix¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MPX" xmltv_id="Megapix [Brazil]">Megapix²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MTV" xmltv_id="MTV [Brazil]">MTV¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MTV" xmltv_id="MTV [Brazil]">MTV²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MTV" xmltv_id="MTV [Brazil]">MTV³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MSW" xmltv_id="Multishow [Brazil]">Multishow¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/MSW" xmltv_id="Multishow [Brazil]">Multishow²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="Nat Geo Wild HD [Brazil]">NatGeo Wild¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="Nat Geo Wild HD [Brazil]">NatGeo Wild²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="Nat Geo Wild HD [Brazil]">NatGeo Wild³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SUP" xmltv_id="National Geographic [Brazil]">National Geographic¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SUP" xmltv_id="National Geographic [Brazil]">National Geographic²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NHK" xmltv_id="NHK World [Brazil]">NHK¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NHK" xmltv_id="NHK World [Brazil]">NHK²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NIC" xmltv_id="Nickelodeon [Brazil]">Nickelodeon¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NIC" xmltv_id="Nickelodeon [Brazil]">Nickelodeon²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NJR" xmltv_id="Nick Jr. [Brazil]">Nick Jr.¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NJR" xmltv_id="Nick Jr. [Brazil]">Nick Jr.²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/NJR" xmltv_id="Nick Jr. [Brazil]">Nick Jr.³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/OFF" xmltv_id="OFF HD [Brazil]">OFF¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/OFF" xmltv_id="OFF HD [Brazil]">OFF²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/PAR" xmltv_id="Paramount Channel [Brazil]">Paramount¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/PAR" xmltv_id="Paramount Channel [Brazil]">Paramount²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/121" xmltv_id="Premiere Clubes [Brazil]">Premiere Clubes¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/121" xmltv_id="Premiere Clubes [Brazil]">Premiere Clubes²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/REC" xmltv_id="Record [Brazil]">Record¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/REC" xmltv_id="Record [Brazil]">Record²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/RCN" xmltv_id="Record News [Brazil]">Record News</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="Rede TV [Brazil]">RedeTV!¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="Rede TV [Brazil]">RedeTV!²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/VDA" xmltv_id="Rede Vida [Brazil]">Rede Vida</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT [Brazil]">SBT¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT [Brazil]">SBT²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT [Brazil]">SBT³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SPA" xmltv_id="SPACE [Brazil]">Space¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SPA" xmltv_id="SPACE [Brazil]">Space²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SPO" xmltv_id="SporTV [Brazil]">SporTV¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SPO" xmltv_id="SporTV [Brazil]">SporTV²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SPO" xmltv_id="SporTV [Brazil]">SporTV³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SP2" xmltv_id="SporTV 2 [Brazil]">SporTV21</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SP2" xmltv_id="SporTV 2 [Brazil]">SporTV2²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SP3" xmltv_id="SporTV 3 [Brazil]">Sportv 3¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SP3" xmltv_id="SporTV 3 [Brazil]">Sportv 3²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HAL" xmltv_id="Studio Universal [Brazil]">Studio Universal¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/HAL" xmltv_id="Studio Universal [Brazil]">Studio Universal²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SCI" xmltv_id="SyFy [Brazil]">Syfy¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/SCI" xmltv_id="SyFy [Brazil]">Syfy²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS [Brazil]">TBS¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS [Brazil]">TBS²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS [Brazil]">TBS³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TCM" xmltv_id="TCM - Turner Classic Movies [Brazil]">TCM</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC2" xmltv_id="Telecine Action [Brazil]">Telecine Action¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC2" xmltv_id="Telecine Action [Brazil]">Telecine Action²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC5" xmltv_id="Telecine Cult [Brazil]">Telecine Cult¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC5" xmltv_id="Telecine Cult [Brazil]">Telecine Cult²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC6" xmltv_id="Telecine Fun [Brazil]">Telecine Fun¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC6" xmltv_id="Telecine Fun [Brazil]">Telecine Fun²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC6" xmltv_id="Telecine Fun [Brazil]">Telecine Fun³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="Telecine Pipoca [Brazil]">Telecine Pipoca¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="Telecine Pipoca [Brazil]">Telecine Pipoca²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="Telecine Pipoca [Brazil]">Telecine Pipoca³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="Telecine Premium [Brazil]">Telecine Premium¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="Telecine Premium [Brazil]">Telecine Premium²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="Telecine Premium [Brazil]">Telecine Premium³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="Telecine Touch [Brazil]">Telecine Touch¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="Telecine Touch [Brazil]">Telecine Touch²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="Telecine Touch [Brazil]">Telecine Touch³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TVV" xmltv_id="Terra Viva [Brazil]">Terra Viva</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TRV" xmltv_id="TLC [Brazil]">TLC¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TRV" xmltv_id="TLC [Brazil]">TLC²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/JUS" xmltv_id="TV Justiça [Brazil]">TV Justica</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TNT" xmltv_id="TNT [Brazil]">TNT¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TNT" xmltv_id="TNT [Brazil]">TNT²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TNS" xmltv_id="TNT Séries [Brazil]">TNT Séries¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TNS" xmltv_id="TNT Séries [Brazil]">TNT Séries²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TOC" xmltv_id="Tooncast [Brazil]">Tooncast¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TOC" xmltv_id="Tooncast [Brazil]">Tooncast²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TRU" xmltv_id="TruTV [Brazil]">TruTV¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TRU" xmltv_id="TruTV [Brazil]">TruTV²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TRU" xmltv_id="TruTV [Brazil]">TruTV³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CUL" xmltv_id="TV Cultura [Brazil]">TV Cultura¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CUL" xmltv_id="TV Cultura [Brazil]">TV Cultura²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TED" xmltv_id="TV Brasil [Brazil]">TV Brasil¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/TED" xmltv_id="TV Brasil [Brazil]">TV Brasil²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/CAM" xmltv_id="TV Câmara [Brazil]">TV Câmara</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/RTB" xmltv_id="TV Rá-tim-bum [Brazil]">TV Ra Tim Bum¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/RTB" xmltv_id="TV Rá-tim-bum [Brazil]">TV Ra Tim Bum²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/USA" xmltv_id="Universal Channel [Brazil]">Universal Channel</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/VH1" xmltv_id="Vh1 [Brazil]">VH1¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/VH1" xmltv_id="Vh1 [Brazil]">VH1²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/VIV" xmltv_id="Viva [Brazil]">Viva¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/VIV" xmltv_id="Viva [Brazil]">Viva²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/VIV" xmltv_id="Viva [Brazil]">Viva³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="Warner Channel [Brazil]">Warner Channel¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="Warner Channel [Brazil]">Warner Channel²</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="Warner Channel [Brazil]">Warner Channel³</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/WOO" xmltv_id="Woohoo [Brazil]">Woohoo¹</channel>
+<channel update="i" site="meuguia.tv" site_id="canal/WOO" xmltv_id="Woohoo [Brazil]">Woohoo²</channel>
   </channels>
 </site>
